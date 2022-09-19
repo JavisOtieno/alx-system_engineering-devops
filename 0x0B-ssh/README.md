@@ -1,1 +1,1 @@
-0x0B-ssh
+Secure Socket Shell (SSH)
